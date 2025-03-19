@@ -10,4 +10,4 @@ For running in expo snacks, kindly copy the api key from the env file and paste 
 >NavigationCards.js
 
 
-In these files, I have indicated where to paste the api key with the help of comments. This is only for running the app in expo snack. The api key is only for the purpose of this application. Kindly don't misuse it. 
+In these files, I have indicated where to paste the api key with the help of comments. This is only for running the app in expo snack. 
